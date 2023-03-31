@@ -6,4 +6,5 @@ landing effect - Parallax scrolling effect website
 
 
 ![preview.png](https://github.com/Joni92/landing006/blob/main/preview01.png)
+
 ![preview.png](https://github.com/Joni92/landing006/blob/main/preview02.png)
